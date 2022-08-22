@@ -1,1 +1,1 @@
-A simple infix operation calculator using a stack ADT with an underlying array
+A simple infix operation calculator using a stack ADT with a linked list
